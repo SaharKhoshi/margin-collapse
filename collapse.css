@@ -1,0 +1,19 @@
+.demo-box{
+    padding: 10px;
+    background-color: rgb(149, 181, 209);
+}
+.one{
+   background-color: #311847; 
+   height: 50px;
+   margin-bottom: 100px;
+}
+.tow{
+    background-color: #EC4067;
+    height: 50px;
+    margin-top: 50px;
+}
+.three{
+    background-color: #A01A76;
+    height: 50px;
+    padding: 5px;
+}
